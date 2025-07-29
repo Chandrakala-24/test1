@@ -6,7 +6,7 @@ public class ArrayToArrayList {
 	        ArrayList<String> list = new ArrayList<>();
 
 	        for (int i = 0; i < myArray.length; i++) {
-	            list.add(myArray[i]);  // Add each element using index
+	            list.add(myArray[i]);  
 	        }
 
 	        System.out.println(list);
