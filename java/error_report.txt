@@ -1,0 +1,4 @@
+Employee: EMP05, Date: 2023-07-28
+Expected IN but found OUT at 2023-07-28T09:00
+Missing OUT for IN at 2023-07-28T10:00
+--------
