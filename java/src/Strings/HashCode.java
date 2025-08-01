@@ -6,7 +6,7 @@ public class HashCode {
 		String str1=in.nextLine();
 		int hash_code=str1.hashCode();
 		System.out.println(hash_code);
-		
+		in.close();
 	}
 
 }
